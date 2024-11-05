@@ -1,2 +1,2 @@
 # ShadowFox
-This is my Internship repository
+This is my Internship repositor
