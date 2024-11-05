@@ -1,4 +1,3 @@
 # ShadowFox
-This is my Internship repositor
-iam feelig soo great to doo this
+This is my Internship repository
 
